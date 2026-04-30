@@ -1,7 +1,7 @@
 # 📊 Sales Performance Analysis (SQL & Power BI)
 
  ## 📌 Overview
-This project analyzes retail sales data using SQL to uncover insights into revenue, profitability, and customer behavior.
+This project demonstrates the end-to-end analysis of retail sales data, combining SQL for data extraction and Power BI for visualization to support business decision-making.
 
 ## 🎯 Business Questions
 - Which regions generate the most sales?
