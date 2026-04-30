@@ -3,6 +3,10 @@
  ## 📌 Overview
 This project demonstrates the end-to-end analysis of retail sales data, combining SQL for data extraction and Power BI for visualization to support business decision-making.
 
+## 📊 Dashboard Preview
+
+![Dashboard](dashboard-screenshot.png)
+
 ## 🎯 Business Questions
 - Which regions generate the most sales?
 - Which categories are the most profitable?
