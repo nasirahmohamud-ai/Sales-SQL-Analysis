@@ -1,6 +1,6 @@
-# 📊 Sales Performance Analysis (SQL Project)
+# 📊 Sales Performance Analysis (SQL & Power BI)
 
-## 📌 Overview
+ ## 📌 Overview
 This project analyzes retail sales data using SQL to uncover insights into revenue, profitability, and customer behavior.
 
 ## 🎯 Business Questions
